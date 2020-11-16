@@ -1,0 +1,1 @@
+# Jriver_LCD_Smartie_Plugin_Fix
